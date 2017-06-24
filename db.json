@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Topics": 9,
+    "Category": 4
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Topics": {
+      "3": "{\"title\":\"Big Mac\",\"description\":\"string\",\"categoryId\":1,\"id\":3}",
+      "4": "{\"title\":\"CheesBurger!\",\"description\":\"string\",\"categoryId\":1,\"id\":4}",
+      "5": "{\"title\":\"Hot Wings\",\"description\":\"string\",\"categoryId\":1,\"id\":5}",
+      "6": "{\"title\":\"Cola\",\"description\":\"string\",\"categoryId\":2,\"id\":6}",
+      "7": "{\"title\":\"pepsi\",\"description\":\"string\",\"categoryId\":2,\"id\":7}",
+      "8": "{\"title\":\"Fanta\",\"description\":\"string\",\"categoryId\":2,\"id\":8}"
+    },
+    "Category": {
+      "1": "{\"name\":\"drinks\",\"description\":\"yeye only drinks\",\"id\":1}",
+      "2": "{\"name\":\"food\",\"description\":\"yeye only food\",\"id\":2}",
+      "3": "{\"name\":\"pies\",\"description\":\"yeye only pie\",\"id\":3}"
+    }
+  }
+}
